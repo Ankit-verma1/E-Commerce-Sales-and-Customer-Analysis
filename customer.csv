@@ -1,0 +1,101 @@
+﻿customer_id,customer_name,gender,age,city,state
+1,Rahul Mehta,Male,32,Ludhiana,Punjab
+2,Neha Saini,Male,55,Amritsar,Punjab
+3,Priya Sharma,Male,31,Kolkata,West Bengal
+4,Aditya Joshi,Male,53,Lucknow,Uttar Pradesh
+5,Komal Yadav,Male,46,Noida,Uttar Pradesh
+6,Rahul Kumar,Female,39,Mumbai,Maharashtra
+7,Rohit Verma,Female,24,Mumbai,Maharashtra
+8,Mohit Singh,Female,,New Delhi,Delhi
+9,Priya Malhotra,Male,42,Mumbai,Maharashtra
+10,Komal Mehta,Female,54,New Delhi,Delhi
+11,Amit Sharma,Male,36,Noida,Uttar Pradesh
+12,Pooja Singh,Female,35,New Delhi,Delhi
+13,Sneha Kumar,Female,40,Hyderabad,Telangana
+14,Arjun Singh,Male,52,Noida,Uttar Pradesh
+15,Anjali Malhotra,Female,35,Lucknow,Uttar Pradesh
+16,Pooja Gupta,Male,32,Dehradun,Uttarakhand
+17,Karan Yadav,Female,22,Faridabad,Haryana
+18,Varun Gupta,Male,59,Noida,Uttar Pradesh
+19,Mohit Malhotra,Male,34,,Madhya Pradesh
+20,Pooja Saini,Female,55,Amritsar,Punjab
+21,Varun Yadav,Female,32,Kolkata,West Bengal
+22,Aditya Malhotra,Male,21,Amritsar,Punjab
+23,Rohit Kumar,Female,56,Ludhiana,Punjab
+24,Mohit Yadav,Female,51,New Delhi,Delhi
+25,Komal Sharma,Male,52,Mumbai,Maharashtra
+26,Karan Singh,Female,45,Mumbai,Maharashtra
+27,Nikhil Sharma,Female,50,Jaipur,Rajasthan
+28,Aditya Singh,Female,58,Jaipur,Rajasthan
+29,Isha Verma,Male,41,Patna,Bihar
+30,Komal Saini,Male,56,Jaipur,Haryana
+31,Shreya Sharma,Male,41,Ahmedabad,Gujarat
+32,Pooja Sharma,Male,54,Pune,Maharashtra
+33,Amit Malhotra,Male,52,New Delhi,Delhi
+34,Rohit Malhotra,Male,34,Amritsar,Punjab
+35,Isha Yadav,Male,52,Patna,Bihar
+36,Simran Yadav,Female,46,Noida,Uttar Pradesh
+37,Nikhil Singh,Male,32,Patna,Bihar
+38,Karan Sharma,Male,55,New Delhi,Delhi
+39,Rahul Singh,Male,32,Lucknow,Uttar Pradesh
+40,Priya Gupta,Male,50,New Delhi,Delhi
+41,Arjun Malhotra,Male,52,Lucknow,Uttar Pradesh
+42,Varun Joshi,Female,33,Gurugram,Punjab
+43,Riya Verma,Male,24,Indore,Madhya Pradesh
+44,Sneha Yadav,Female,47,Kolkata,West Bengal
+45,Neha Sharma,Female,39,Faridabad,Haryana
+46,Pooja Verma,Male,52,Ludhiana,Punjab
+47,Rohit Yadav,Male,35,Hyderabad,Telangana
+48,Pooja Singh,Female,53,Hyderabad,Telangana
+49,Priya Saini,Male,23,Ludhiana,Punjab
+50,Anjali Yadav,Female,48,Lucknow,Uttar Pradesh
+51,Mohit Sharma,Male,42,Noida,Uttar Pradesh
+52,Mohit Mehta,Female,36,Gurugram,Haryana
+53,Komal Malhotra,Male,30,Kolkata,West Bengal
+54,Vikas Sharma,Male,38,Pune,Maharashtra
+55,Priya Joshi,Female,50,Faridabad,Haryana
+56,Anjali Sharma,Male,29,Patna,Bihar
+57,Isha Singh,Male,43,New Delhi,Delhi
+58,Varun Verma,Male,57,Ludhiana,Punjab
+59,Riya Joshi,Female,34,New Delhi,Delhi
+60,Karan Verma,Female,43,Noida,Uttar Pradesh
+61,Simran Malhotra,Female,22,Amritsar,Punjab
+62,Nikhil Joshi,Male,22,Gurugram,Haryana
+63,Vikas Saini,Female,26,Dehradun,Uttarakhand
+64,Amit Verma,Female,36,Bengaluru,Karnataka
+65,Nikhil Saini,Female,57,Jaipur,Rajasthan
+66,Rahul Saini,Female,60,Patna,Bihar
+67,Rohit Mehta,Male,24,Ludhiana,Punjab
+68,Rohit Mehta,Female,56,Dehradun,Uttarakhand
+69,Karan Verma,Female,50,Noida,Uttar Pradesh
+70,Arjun Sharma,Male,58,Indore,Madhya Pradesh
+71,Arjun Sharma,Male,39,Kolkata,West Bengal
+72,Arjun Kumar,Female,53,Amritsar,Punjab
+73,Komal Sharma,Male,22,Kolkata,West Bengal
+74,Komal Sharma,Female,55,Amritsar,Punjab
+75,Rohit Yadav,Male,20,Dehradun,Uttarakhand
+76,Sneha Sharma,Female,31,Pune,Maharashtra
+77,Neha Gupta,Female,57,Lucknow,Uttar Pradesh
+78,Pooja Kumar,Male,44,Amritsar,Punjab
+79,Anjali Gupta,Female,60,Gurugram,Haryana
+80,Arjun Kumar,Male,42,Lucknow,Uttar Pradesh
+81,Shreya Verma,Male,47,Faridabad,Haryana
+82,Simran Verma,Male,19,Bengaluru,Karnataka
+83,Mohit Gupta,Female,22,Noida,Uttar Pradesh
+84,Sneha Saini,Female,52,Mumbai,Maharashtra
+85,Rahul Singh,Female,29,Ahmedabad,Gujarat
+86,Priya Singh,Female,40,Mumbai,Maharashtra
+87,Riya Joshi,Male,42,Ahmedabad,Gujarat
+88,Arjun Sharma,Female,18,Noida,Uttar Pradesh
+89,Komal Verma,Female,45,Patna,Bihar
+90,Karan Joshi,Female,60,New Delhi,Delhi
+91,Simran Saini,Female,60,Ludhiana,Punjab
+92,Karan Yadav,Female,53,Kolkata,West Bengal
+93,Vikas Yadav,Female,29,Amritsar,Punjab
+94,Mohit Saini,Male,37,Pune,Maharashtra
+95,Vikas Yadav,Female,47,Pune,Maharashtra
+96,Nikhil Verma,Female,28,Hyderabad,Telangana
+97,Simran Saini,Female,23,New Delhi,Delhi
+98,Simran Verma,Male,27,Lucknow,Uttar Pradesh
+99,Priya Verma,Female,57,Gurugram,Haryana
+100,Nikhil Yadav,Male,42,New Delhi,Delhi

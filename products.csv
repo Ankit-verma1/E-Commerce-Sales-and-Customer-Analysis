@@ -1,0 +1,31 @@
+product_id	product_name	category	sub_category	unit_price	unit_cost
+101	Laptop	Electronics	Computers	55000	47000
+102	Smartphone	Electronics	Mobiles	28000	23000
+103	Tablet	Electronics	Tablets	18000	14500
+104	Wireless Mouse	Electronics	Accessories	1200	700
+105	Keyboard	Electronics	Accessories	1800	1050
+106	Headphones	Electronics	Accessories	2500	1500
+107	Smartwatch	Electronics	Wearables	4500	3000
+108	Office Chair	Furniture	Chairs	8000	5500
+109	Study Table	Furniture	Tables	12000	8500
+110	Bookshelf	Furniture	Storage	6500	4300
+111	Sofa	Furniture	Living Room	22000	16500
+112	Running Shoes	Fashion	Footwear	3500	2200
+113	T-Shirt	Fashion	Clothing	999	550
+114	Jeans	Fashion	Clothing	2200	1350
+115	Jacket	Fashion	Clothing	4500	2900
+116	Backpack	Fashion	Bags	1800	1100
+117	Air Fryer	Home Appliances	Kitchen	6500	4800
+118	Mixer Grinder	Home Appliances	Kitchen	4200	3000
+119	Electric Kettle	Home Appliances	Kitchen	1800	1100
+120	Vacuum Cleaner	Home Appliances	Cleaning	8500	6200
+121	The Alchemist	Books	Fiction	450	250
+122	Atomic Habits	Books	Self Help	550	300
+123	Data Analytics Guide	Books	Education	900	520
+124	Cricket Bat	Sports	Cricket	2800	1800
+125	Football	Sports	Football	1200	700
+126	Yoga Mat	Sports	Fitness	900	500
+127	Dumbbells Set	Sports	Fitness	3000	2100
+128	Badminton Racket	Sports	Badminton	2200	1400
+129	Water Bottle	Sports	Fitness	700	350
+130	Tennis Shoes	Sports	Footwear	3800	2400
